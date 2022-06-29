@@ -15,7 +15,10 @@
   "dependencies": {
     "body-parser": "1.18.3",
     "consign": "0.1.6",
-    "express": "4.16.4"
+    "express": "4.16.4",
+    "knex": "^2.1.0",
+    "knex-logger": "^0.1.0",
+    "pg": "8.7.3"
   },
   "devDependencies": {
     "eslint": "^8.2.0",
